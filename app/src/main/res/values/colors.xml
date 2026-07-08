@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Calculatrice -->
+    <color name="calc_fond">#1C1C1E</color>
+    <color name="calc_display_fond">#1C1C1E</color>
+    <color name="calc_btn_chiffre">#2C2C2E</color>
+    <color name="calc_btn_operateur">#F47C3C</color>
+    <color name="calc_btn_utilitaire">#636366</color>
+    <color name="calc_btn_egal">#F47C3C</color>
+    <color name="calc_texte_blanc">#FFFFFF</color>
+    <color name="calc_texte_sombre">#1C1C1E</color>
+    <color name="calc_display_operation">#8E8E93</color>
+</resources>
